@@ -22,7 +22,7 @@ title: About
 
     <br/><br/>
 
-    Outside of school I have multiple existential crises and listen to a lot of music.
+    Outside of school I watch baseball, exercise, listen to a lot of music and learning something new.
 </p>
 
 ## Links and Socials

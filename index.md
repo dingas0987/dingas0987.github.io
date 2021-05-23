@@ -4,7 +4,7 @@
 
 layout: home
 title: Home
-banner: "assets/images/Screenshot_400.png"
+banner: "assets/images/pipes.gif"
 heading: "hey"
 subheading: "A boy kinda needs a job"
 ---
