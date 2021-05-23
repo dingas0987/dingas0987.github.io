@@ -15,7 +15,7 @@ sidebar: archive-list
 ## <span style = "font-size: 28px;"> Linux Namespace Performance </span>
 
 <p class = "style1">
-    This project was created fpr ASRC Federal Mission Solutions (AFMS)
+    This project was created for ASRC Federal Mission Solutions (AFMS)
 
     <br/><br/>
 
