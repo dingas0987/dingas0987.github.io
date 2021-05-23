@@ -23,6 +23,10 @@ title: About
     <br/><br/>
 
     Outside of school I watch baseball, exercise, listen to a lot of music and learning something new.
+
+    <br/><br/>
+
+    I might add a page about weird dreams I get. Like when I found a moldy piece of bread on my bed and immediately woke up.
 </p>
 
 ## Links and Socials
