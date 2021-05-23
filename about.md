@@ -13,6 +13,8 @@ title: About
     } 
 </style>
 
+## Mid Term Mini project  - (Adv) Web Programming Course
+
 ![](assets/images/hotdog.jpg)
 
 ## About Me
