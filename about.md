@@ -15,12 +15,15 @@ title: About
 
 ## Mid Term Mini project  - (Adv) Web Programming Course
 
-![](assets/images/hotdog.jpg)
+<img src= "assets/images/me.jpg" width="300" height="300"/>
 
 ## About Me
 
 <p class = "style1">
-    Hey I'm Vincent Liang, a student at Rowan University with hopes to start a career in Cyber Security <sub><sub><sub><sub> <a href = "/assets/images/hand1.jpg"> or possibly hand modeling</a> </sub></sub></sub></sub>.
+    Hey I'm Vincent Liang, a senior at Rowan University with hopes to start a career in Cyber Security. 
+    <!--
+    <sub><sub><sub><sub> <a href = "/assets/images/hand1.jpg"> or possibly hand modeling</a> </sub></sub></sub></sub>.
+    -->
 
     <br/><br/>
 
@@ -28,7 +31,6 @@ title: About
 
     <br/><br/>
 
-    I might add a page about weird dreams I get. Like when I found a moldy piece of bread on my bed and immediately woke up.
 </p>
 
 ## Links and Socials

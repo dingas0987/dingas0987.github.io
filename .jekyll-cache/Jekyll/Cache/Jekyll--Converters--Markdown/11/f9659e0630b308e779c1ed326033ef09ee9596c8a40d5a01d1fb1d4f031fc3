@@ -1,0 +1,32 @@
+I"O<style>
+    .style1 {
+        font-size: 40px; 
+    }
+
+    .style2 {
+        font-size: 32px;
+    } 
+</style>
+
+<h1 id="-resume-"><span style="font-size: 40px;"> Resume </span></h1>
+
+<p class="style2">
+    <iframe src="assets\pdf\vincent-liang-resume-5-20-21.pdf" height="1024" width="960"></iframe>
+</p>
+
+<hr />
+
+<h1 id="vincent-liang">Vincent Liang</h1>
+
+<h1 id="education">Education</h1>
+<hr />
+
+<h2 id="rowan-university">Rowan University</h2>
+
+<p>Bachelor of Science in Computer Science</p>
+
+<p>Mathematics Minor, Cyber Security Concentration</p>
+
+<p>GPA: 3.671 (Out of a 4.0 scale)</p>
+
+:ET

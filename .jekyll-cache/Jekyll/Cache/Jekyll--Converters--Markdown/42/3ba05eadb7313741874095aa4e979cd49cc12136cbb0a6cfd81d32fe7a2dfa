@@ -1,4 +1,4 @@
-I"t<style>
+I"<style>
     .style1 {
         font-size: 24px; 
     }
@@ -8,16 +8,24 @@
     } 
 </style>
 
+<h2 id="mid-term-mini-project----adv-web-programming-course">Mid Term Mini project  - (Adv) Web Programming Course</h2>
+
 <p><img src="assets/images/hotdog.jpg" alt="" /></p>
 
 <h2 id="about-me">About Me</h2>
 
 <p class="style1">
-    Hey I'm Vincent Liang, a student at Rowan University with hopes to start a career in Cyber Security <sub><sub><sub><sub> <a href="/assets/images/hand1.jpg"> or possibly hand modeling</a> </sub></sub></sub></sub>.
+    Hey I'm Vincent Liang, a senior at Rowan University with hopes to start a career in Cyber Security. 
+    <!--
+    <sub><sub><sub><sub> <a href = "/assets/images/hand1.jpg"> or possibly hand modeling</a> </sub></sub></sub></sub>.
+    -->
 
     <br /><br />
 
     Outside of school I watch baseball, exercise, listen to a lot of music and learning something new.
+
+    <br /><br />
+
 </p>
 
 <h2 id="links-and-socials">Links and Socials</h2>

@@ -5,6 +5,6 @@
 layout: home
 title: Home
 banner: "assets/images/pipes.gif"
-heading: "hey"
-subheading: "A boy kinda needs a job"
+heading: "Vincent Liang"
+subheading: "Once a student, always a student"
 ---
