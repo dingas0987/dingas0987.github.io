@@ -13,21 +13,17 @@ title: About
     } 
 </style>
 
-## Mid Term Mini project  - (Adv) Web Programming Course
-
-<img src= "assets/images/me.jpg" width="300" height="300"/>
+<!-- <img src= "assets/images/me.jpg" width="300" height="300"/> -->
 
 ## About Me
 
 <p class = "style1">
-    Hey I'm Vincent Liang, a senior at Rowan University with hopes to start a career in Cyber Security. 
+    Hey I'm Vincent Liang, a senior at Rowan University.
     <!--
     <sub><sub><sub><sub> <a href = "/assets/images/hand1.jpg"> or possibly hand modeling</a> </sub></sub></sub></sub>.
     -->
 
-    <br/><br/>
-
-    Outside of school I watch baseball, exercise, listen to a lot of music and learning something new.
+    <br/><br/>    
 
     <br/><br/>
 

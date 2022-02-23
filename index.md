@@ -6,5 +6,5 @@ layout: home
 title: Home
 banner: "assets/images/pipes.gif"
 heading: "Vincent Liang"
-subheading: "Once a student, always a student"
+subheading: ""
 ---
